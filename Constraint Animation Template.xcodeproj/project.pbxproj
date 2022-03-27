@@ -24,7 +24,6 @@
 		8102E44327F1023A00216C2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8102E44627F1023A00216C2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8102E44827F1023A00216C2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8102E45027F10D8500216C2C /* demo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = demo.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +40,6 @@
 		8102E42E27F1023800216C2C = {
 			isa = PBXGroup;
 			children = (
-				8102E45027F10D8500216C2C /* demo.mp4 */,
 				8102E43927F1023800216C2C /* Constraint Animation Template */,
 				8102E43827F1023800216C2C /* Products */,
 			);
