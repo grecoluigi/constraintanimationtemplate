@@ -13,7 +13,6 @@
 		8102E44227F1023800216C2C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8102E44027F1023800216C2C /* Main.storyboard */; };
 		8102E44427F1023A00216C2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8102E44327F1023A00216C2C /* Assets.xcassets */; };
 		8102E44727F1023A00216C2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8102E44527F1023A00216C2C /* LaunchScreen.storyboard */; };
-		8102E44F27F10BF000216C2C /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8102E44E27F10BF000216C2C /* demo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,7 @@
 		8102E44327F1023A00216C2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8102E44627F1023A00216C2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8102E44827F1023A00216C2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8102E44E27F10BF000216C2C /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
+		8102E45027F10D8500216C2C /* demo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = demo.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +41,7 @@
 		8102E42E27F1023800216C2C = {
 			isa = PBXGroup;
 			children = (
-				8102E44E27F10BF000216C2C /* demo.gif */,
+				8102E45027F10D8500216C2C /* demo.mp4 */,
 				8102E43927F1023800216C2C /* Constraint Animation Template */,
 				8102E43827F1023800216C2C /* Products */,
 			);
@@ -129,7 +128,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8102E44727F1023A00216C2C /* LaunchScreen.storyboard in Resources */,
-				8102E44F27F10BF000216C2C /* demo.gif in Resources */,
 				8102E44427F1023A00216C2C /* Assets.xcassets in Resources */,
 				8102E44227F1023800216C2C /* Main.storyboard in Resources */,
 			);

@@ -33,7 +33,7 @@ class ViewController: UIViewController {
     func animateLogo(){
 
         UIView.animate(withDuration: 2.0,
-                       delay: 0.0,
+                       delay: 0.3,
                        options: [.curveLinear],
                        animations: {
             self.leadingConstraint.isActive = false
